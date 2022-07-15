@@ -1,8 +1,9 @@
-MiniShell 
+# MiniShell 
 
 MiniShell is a C program that interprets and performs Unix commands. 
 This program was designed to run on the Bash Unix Shell (bash). 
 
+## Instructions
 Using bash navigate to the directory containing minish.c
 To compile the program, enter 'gcc --std=gnu99 -o minish minish.c' into Bash.
 To run the program, enter './smallsh'

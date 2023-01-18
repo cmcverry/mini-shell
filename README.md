@@ -1,7 +1,7 @@
 # MiniShell 
 
 MiniShell is a C program that interprets and performs Unix commands. 
-This program was designed to run on the Bash Unix Shell (bash). 
+This program is designed to run on top of the Bash Unix Shell (bash). 
 
 ## Instructions
 NOTE: A GCC/C Compiler must be installed to compile and run this program.

@@ -23,8 +23,8 @@ I do not currently use MacOS. Hence, I have not compiled in this OS. However, Ma
 
 ## Shell Instructions
 
-The program runs a shell where the colon [:] symbol prompts command lines.
-The supported syntax for a command line is: 'command [arg1 arg2 ...] [< input_file] [> output_file] [&]'.
+The program runs a shell where the colon [:] symbol prompts commands.
+The supported syntax for a command is: 'command [arg1 arg2 ...] [< input_file] [> output_file] [&]'.
 All words in the command line are separated by spaces. Unix commands can be run on the shell, but the above
 syntax must be used. 
 

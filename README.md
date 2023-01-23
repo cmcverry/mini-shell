@@ -10,7 +10,7 @@ In your terminal navigate to the directory containing minish.c
 
 Linux:<br/>
 To compile the program, enter 'gcc --std=gnu99 -o minish minish.c' into Bash.
-To run the program, enter './smallsh'
+To run the program, enter './minish'
 
 Windows:<br/>
 Note: There is an issue when compiling using MinGW or MSYS compiler. These compilers use the interfaces natively provided by Windows, 

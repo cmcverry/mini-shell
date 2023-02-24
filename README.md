@@ -1,6 +1,6 @@
-# MiniShell 
+# mini-shell 
 
-MiniShell is a C program that interprets and performs Unix commands. 
+mini-shell is a C program that interprets and performs Unix commands. 
 This program is built and tested to run on top of the Bash Unix Shell (bash). 
 
 ## Compilation Instructions

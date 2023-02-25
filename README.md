@@ -20,7 +20,7 @@ To run the program execute:
 
 Windows:<br/>
 Note: There is an issue when compiling using MinGW or MSYS compiler. These compilers use the interfaces natively provided by Windows, 
-and because Windows does not 100% abide to POSIX standards there is no <sys/wait.> header file avaiable and a corresponding error will be
+and because Windows does not 100% abide to POSIX standards there is no <sys/wait.> header file available and a corresponding error will be
 thrown upon compilation. I would suggest either installing an emulator like Cygwin and compiling in the Cygwin terminal or setting up Windows Subsystem for Linux (WSL) on your system and compile within a WSL shell.
 
 MacOS \ OS X:<br/>
